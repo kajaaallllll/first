@@ -1,1 +1,3 @@
 Kajal
+domain
+app dev
